@@ -58,3 +58,11 @@ Behavior is the most honest data there is.
 - DOI: https://doi.org/10.5281/zenodo.20044740
 - ORCID: https://orcid.org/0009-0009-4806-1949
 
+
+---
+
+## HHI Governed Authorship
+
+![Provenance](https://img.shields.io/badge/HHI-Governed_Authorship-black)
+
+This artifact follows the HHI governed authorship pattern: human-origin meaning, AI-executed structure, drift-free.
